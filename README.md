@@ -7,6 +7,8 @@
     <p>📚 Studying Web</p>
 </div>
 
+<br />
+
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
 
 <p  align="center">
@@ -27,6 +29,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>&nbsp
 </p>
+
+<br />
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPANGKIN&count_bg=%23FFB740&title_bg=%23FF3D68&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
