@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Ahn%20Jongjin&fontSize=70&fontAlign=27&fontAlignY=35&animation=twinkling&desc=pangkin&descAlign=46.2&descAlignY=49&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ahn%20Jongjin&fontSize=70&fontAlign=27&fontAlignY=35&animation=twinkling&desc=pangkin&descAlign=46.2&descAlignY=49&descSize=17)
 
 🖥️ Student Developer</p>
 📚 Studying Web</p>
