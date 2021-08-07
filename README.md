@@ -5,7 +5,7 @@
 
 <br/>
 
-## ⚒️ Tech Stack ⚒️
+### ⚒️ Tech Stack ⚒️
 ![Javascript](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
